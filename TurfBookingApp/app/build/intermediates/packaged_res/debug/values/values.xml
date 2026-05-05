@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF9800</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_turf">Add Turf</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="app_name">Turf Booking App</string>
+    <string name="book_now">Book Now</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="location">Location</string>
+    <string name="login">Login</string>
+    <string name="manage_bookings">Manage Bookings</string>
+    <string name="password">Password</string>
+    <string name="price_per_hour">Price per Hour</string>
+    <string name="register">Register</string>
+    <string name="turf_name">Turf Name</string>
+    <string name="username">Username</string>
+    <style name="Theme.TurfBookingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

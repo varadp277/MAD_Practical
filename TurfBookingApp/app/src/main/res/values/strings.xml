@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Turf Booking App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="book_now">Book Now</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="turf_name">Turf Name</string>
+    <string name="location">Location</string>
+    <string name="price_per_hour">Price per Hour</string>
+    <string name="add_turf">Add Turf</string>
+    <string name="manage_bookings">Manage Bookings</string>
+</resources>
